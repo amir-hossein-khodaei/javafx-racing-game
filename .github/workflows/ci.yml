@@ -1,0 +1,36 @@
+﻿name: Java CI with Maven
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up JDK 21
+      uses: actions/setup-java@v4
+      with:
+        java-version: '21'
+        distribution: 'temurin'
+        cache: maven
+
+    - name: Grant execute permission for gradlew/mvnw
+      run: chmod +x mvnw
+
+    - name: Build with Maven
+      # We skip tests in the build phase if they require a GUI (Headless environment)
+      # If your unit tests are logic-only, remove '-DskipTests'
+      run: ./mvnw clean install -B -DskipTests
+
+    - name: Run Headless Tests
+      # Attempt to run tests. If JavaFX tests require a display, 
+      # you may need to configure Monocle or Xvfb.
+      run: ./mvnw test -B
