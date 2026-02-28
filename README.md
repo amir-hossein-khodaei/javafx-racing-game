@@ -12,26 +12,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,40,45&height=300&section=header&text=Racing%20Game&fontSize=90&animation=fadeIn&fontAlignY=38&desc=high-Octane%20JavaFX%20Survival%20Racer&descAlign=62" alt="Racing Game JavaFX Hero Banner" width="100%" />
 
   <!-- ANIMATED SUBTITLE: Typing SVG for Value Propositions -->
-  <a href="https://github.com/Amkhodaei83/racing-game">
+  <a href="https://github.com/amir-hossein-khodaei/javafx-racing-game">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3388FF&center=true&vCenter=true&width=435&lines=Object-Oriented+Design+Showcase;JavaFX+21+GUI+Architecture;High-Speed+Survival+Action;Maven-Built+Open+Source+Project" alt="Typing Animation: OOP Design, JavaFX GUI, Survival Action" />
   </a>
 
   <!-- BADGES: High-Value Metadata -->
   <p>
-    <a href="https://github.com/Amkhodaei83/racing-game/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/Amkhodaei83/racing-game?style=for-the-badge&color=2ecc71" alt="Contributors" />
+    <a href="https://github.com/amir-hossein-khodaei/javafx-racing-game/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/amir-hossein-khodaei/javafx-racing-game?style=for-the-badge&color=2ecc71" alt="Contributors" />
     </a>
-    <a href="https://github.com/Amkhodaei83/racing-game/network/members">
-      <img src="https://img.shields.io/github/forks/Amkhodaei83/racing-game?style=for-the-badge&color=e67e22" alt="Forks" />
+    <a href="https://github.com/amir-hossein-khodaei/javafx-racing-game/network/members">
+      <img src="https://img.shields.io/github/forks/amir-hossein-khodaei/javafx-racing-game?style=for-the-badge&color=e67e22" alt="Forks" />
     </a>
-    <a href="https://github.com/Amkhodaei83/racing-game/stargazers">
-      <img src="https://img.shields.io/github/stars/Amkhodaei83/racing-game?style=for-the-badge&color=f1c40f" alt="Stargazers" />
+    <a href="https://github.com/amir-hossein-khodaei/javafx-racing-game/stargazers">
+      <img src="https://img.shields.io/github/stars/amir-hossein-khodaei/javafx-racing-game?style=for-the-badge&color=f1c40f" alt="Stargazers" />
     </a>
-    <a href="https://github.com/Amkhodaei83/racing-game/issues">
-      <img src="https://img.shields.io/github/issues/Amkhodaei83/racing-game?style=for-the-badge&color=e74c3c" alt="Open Issues" />
+    <a href="https://github.com/amir-hossein-khodaei/javafx-racing-game/issues">
+      <img src="https://img.shields.io/github/issues/amir-hossein-khodaei/javafx-racing-game?style=for-the-badge&color=e74c3c" alt="Open Issues" />
     </a>
-    <a href="https://github.com/Amkhodaei83/racing-game/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/Amkhodaei83/racing-game?style=for-the-badge&color=3498db" alt="MIT License" />
+    <a href="https://github.com/amir-hossein-khodaei/javafx-racing-game/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/amir-hossein-khodaei/javafx-racing-game?style=for-the-badge&color=3498db" alt="MIT License" />
     </a>
   </p>
 
@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/Get_Started-000000?style=flat-square&logo=speedtest&logoColor=white" alt="Get Started Button" height="35" />
     </a>
     &nbsp;
-    <a href="https://github.com/Amkhodaei83/racing-game/releases">
+    <a href="https://github.com/amir-hossein-khodaei/javafx-racing-game/releases">
       <img src="https://img.shields.io/badge/Download_Latest-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Download Release Button" height="35" />
     </a>
   </p>
@@ -230,7 +230,7 @@ Follow these steps to get a local copy up and running. This project is built wit
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/Amkhodaei83/racing-game.git
+    git clone https://github.com/amir-hossein-khodaei/javafx-racing-game.git
     cd racing-game
     ```
 
@@ -333,7 +333,7 @@ Your survival depends on managing three core resources displayed on the HUD:
 - [ ] **Executable Packaging**: Bundle with `jpackage` for a standalone `.exe` or `.dmg`.
 - [ ] **Refactoring**: Migrate from flat-file storage to SQLite for robust data management.
 
-See the [open issues](https://github.com/Amkhodaei83/racing-game/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/amir-hossein-khodaei/javafx-racing-game/issues) for a full list of proposed features (and known issues).
 
 ---
 

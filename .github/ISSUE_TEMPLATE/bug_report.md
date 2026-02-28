@@ -3,7 +3,7 @@ name: 🐛 Bug Report
 about: Create a report to help us improve
 title: '[BUG] '
 labels: bug
-assignees: Amkhodaei83
+assignees: amir-hossein-khodaei
 ---
 
 ## Describe the Bug
