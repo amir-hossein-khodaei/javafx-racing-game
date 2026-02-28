@@ -231,7 +231,7 @@ Follow these steps to get a local copy up and running. This project is built wit
 1.  **Clone the repository**
     ```bash
     git clone https://github.com/amir-hossein-khodaei/javafx-racing-game.git
-    cd racing-game
+    cd javafx-racing-game
     ```
 
 2.  **Initialize the Wrapper & Build**

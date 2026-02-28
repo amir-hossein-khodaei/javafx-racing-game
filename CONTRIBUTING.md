@@ -1,4 +1,4 @@
-﻿# Contributing to racing-game
+﻿# Contributing to javafx-racing-game
 
 First off, thanks for taking the time to contribute! ❤️
 
